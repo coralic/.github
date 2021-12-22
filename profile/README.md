@@ -1,1 +1,1 @@
-Studio for gorgeous apps, websites and magnificent ideas.
+<h1><img src="coralic.png"></h1>
